@@ -47,31 +47,16 @@ Python Libraries:
 - Ensure there are no errors when calling the dataset and library.
 
 6. System Workflow
+
 The music emotion classification system works through the following stages:
-- Load Dataset
-
-Read the Acoustic Features.csv file and save it into a data structure.
-- Preprocess Data
-
-The data is cleaned and prepared for the machine learning process.
-- Data Exploration (EDA)
-
-Statistical analysis and visualization are performed to understand data patterns.
-- Split Data
-
-The dataset is divided into training and test data.
-- Feature Selection
-
-To see what percentage of features contribute to the overall dataset.
-- Model Training
-
-The machine learning model is trained using the training data.
-- Model Evaluation
-
-The model is evaluated using test data to measure accuracy and performance.
-- Classification Results
-
-The system generates music emotion predictions based on acoustic features.
+- Load Dataset : Read the Acoustic Features.csv file and save it into a data structure.
+- Preprocess Data : The data is cleaned and prepared for the machine learning process.
+- Data Exploration (EDA) : Statistical analysis and visualization are performed to understand data patterns.
+- Split Data : The dataset is divided into training and test data.
+- Feature Selection : To see what percentage of features contribute to the overall dataset.
+- Model Training : The machine learning model is trained using the training data.
+- Model Evaluation : The model is evaluated using test data to measure accuracy and performance.
+- Classification Results : The system generates music emotion predictions based on acoustic features.
 
 7. System Output
    
